@@ -1,0 +1,1 @@
+cache文档地址: http://ifeve.com/google-guava-cachesexplained/
